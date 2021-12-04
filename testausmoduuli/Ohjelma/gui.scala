@@ -1,14 +1,14 @@
 package Ohjelma
 
-import gui._
+
 import scala.io.StdIn.readLine
 
 object gui extends App {
 
   val command = ""
+  val alue = new Forest
 
-
-
+  alue.speak()
   this.run()
 
   private def run() = {

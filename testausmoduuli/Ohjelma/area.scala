@@ -13,6 +13,4 @@ class Forest extends area {
 
   def returnName = "Mettä"
 
-  this.speak()
-
 }
