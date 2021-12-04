@@ -1,0 +1,5 @@
+package Ohjelma
+
+trait shape {
+
+}
